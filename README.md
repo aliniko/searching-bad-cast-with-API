@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This Website is built on React 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[for more details please the in the link](https://aliniko.github.io/searching-bad-cast-with-API/).
 
